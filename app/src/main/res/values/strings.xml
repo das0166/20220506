@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">20220506</string>
+    <string name="introduction">나는 누구인가?</string>
+    <string name="photo">나의 사진</string>
+    <string name="schedule">나의 수업</string>
+    <string name="multiplication">구구단을 보자</string>
+    <string name="setting">환경설정</string>
+    <string name="login">로그인</string>
+    <string name="back">뒤로 가기</string>
+    <string name="one">1단</string>
+    <string name="two">2단</string>
+    <string name="three">3단</string>
+    <string name="four">4단</string>
+    <string name="five">5단</string>
+    <string name="six">6단</string>
+    <string name="seven">7단</string>
+    <string name="eight">8단</string>
+    <string name="nine">9단</string>
+    <string name="change">변경</string>
+    <string name="logout">로그아웃</string>
+</resources>
